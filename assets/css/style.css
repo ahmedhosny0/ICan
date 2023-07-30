@@ -68,7 +68,10 @@ a:focus {
 h1, h2, h3, h4, h5, h6 {
   font-family: "Montserrat", sans-serif;
 }
-
+figure img{
+  width:260px;
+  height:265px;
+}
 h2 {
   font-size: 30px;
   font-weight: 700;
